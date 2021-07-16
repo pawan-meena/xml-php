@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fields>
+
+
+<radio>
+<name>radio</name>
+<selected>bye</selected>
+<option>hello</option>
+<option>bye</option>
+<option>hii</option>
+<option>hoo</option>
+</radio>
+
+
+<checkbox>
+<name>checkbox</name>
+<selected>checkbox 4</selected>
+<option>checkbox 1</option>
+<option>checkbox 2</option>
+<option>checkbox 3</option>
+<option>checkbox 4</option>
+</checkbox>
+
+
+
+
+<dropdown>
+<name>dropdown</name>
+<selected>dropdown 3</selected>
+<option>dropdown 1</option>
+<option>dropdown 2</option>
+<option>dropdown 3</option>
+<option>dropdown 4</option>
+</dropdown>
+
+
+</fields>
+
+
+
+
+
